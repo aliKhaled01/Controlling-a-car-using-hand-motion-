@@ -1,8 +1,8 @@
 Project Title: 
-Controlling-a-car-using-hand-motion.
+- Controlling-a-car-using-hand-motion.
 
 What the project does:
-Controling two dc motors direction and speed by fingers movements. 
+- Controling two dc motors direction and speed by fingers movements. 
 
 Project Description:
 - The project is about controlling two DC motors using fingers motions.
