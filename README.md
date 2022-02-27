@@ -30,7 +30,7 @@ SoftWare requirments to use the project:
 - Eclipse if you want to debug or add additional feature to the project.
 - Proteus v8.13 at least. 
 
-Technologies used:
+Technologies and librairies used:
 - C programming.  
 - Esp32 IDF.
 
