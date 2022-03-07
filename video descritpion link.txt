@@ -1,1 +1,8 @@
-//"LinkedIn Link":
+ Proteus Simulation Video Link: 
+ https://drive.google.com/file/d/1LPIEUTZLApuO-VoivHbC_OMHRmQk5Iin/view?usp=sharing
+ 
+ Real Hardware Video Link:
+ https://drive.google.com/file/d/1-VrY31r865lrww66XfixR81QW_EtOTeH/view
+ 
+ LinkedIn Post Link:
+ https://www.linkedin.com/posts/ali-khaled-009236227_embeddedsystems-embeddedsoftware-iot-activity-6903826577780797440-bxVG
